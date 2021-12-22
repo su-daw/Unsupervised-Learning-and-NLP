@@ -29,3 +29,5 @@ Yelp is one of the most popular apps for finding new places. It also offers revi
 | Good Atmosphere | Russell’s Bakery, Cafe Crème, Jo’s Coffee |
 | Good Coffee | Flightpath Coffeehouse, Café Medici |
 | Good Service | Mary's Café, Dolce Neve |
+
+#### Proposed by: Sultanah Aldossari & <a href="https://github.com/Rawanawh">Rawan Alharbi</a> 
